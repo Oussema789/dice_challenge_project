@@ -12,6 +12,6 @@ You can play the game once more.
 You have the option to exit the application.
 
 
-Here's who the app works:
+Here's how the app works:
 
 (https://www.linkedin.com/posts/oussama-khlifi-ab54b0166_android-studio-flutter-activity-6952575643515555840-Pr94?utm_source=share&utm_medium=member_desktop)
