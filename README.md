@@ -1,16 +1,17 @@
 # dicee_challenge_project
 
-A new Flutter project.
+To get some casino vibes, I named this project "Las Vegas Dice Challenge." The game's rules are straightforward. It is founded on a simple probability event.
+You have two dice, and you get points whenever their faces have the same number.
+You will receive +3 points if the number is a pair.
+Otherwise, you will be penalized with a -1 point.
 
-## Getting Started
+The following features have been implemented:
+Every time the dice faces change, you must press the play button.
+You can check your score by clicking on the "Check your score" button.
+You can play the game once more.
+You have the option to exit the application.
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
+Here's who the app works:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+(https://www.linkedin.com/posts/oussama-khlifi-ab54b0166_android-studio-flutter-activity-6952575643515555840-Pr94?utm_source=share&utm_medium=member_desktop)
